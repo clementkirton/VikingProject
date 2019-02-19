@@ -8,6 +8,10 @@
 			"Name": "RunebergVRPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4dfd0c5b4c97427c860bd2cf7c207136"
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
